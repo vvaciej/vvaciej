@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>hi i'm maciek</h1>
+  <h1 style="color: white">hi i'm maciek</h1>
   <h2>In pursuit of the goal that is to become a Web Developer 🗺️🎯🔜</h2>
 
   <p>
