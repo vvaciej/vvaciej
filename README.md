@@ -2,7 +2,7 @@
 <img src="https://github.com/vvaciej/vvaciej/assets/140758922/f050b374-8231-4e10-8f37-55a73416bf5b" alt="macie">
 </div>
 
- <h2 align="center">In pursuit of the goal that is to become a Web Developer 🗺️🎯🔜</h2>
+ <h3 align="center">In pursuit of the goal that is to become a Web Developer 🗺️🎯🔜</h3>
 
 <div align="center">
  <b>Languages</b><br/>
