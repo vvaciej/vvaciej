@@ -1,4 +1,4 @@
-
+ <h1 align="center">hi i'm maciek</h1>
  <h2 align="center">In pursuit of the goal that is to become a Web Developer 🗺️🎯🔜</h2>
 
 <div align="center">
