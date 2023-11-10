@@ -5,7 +5,6 @@
  <h3 align="center">In pursuit of the goal that is to become a Web Developer 🗺️🎯🔜</h3>
 
 <div align="center">
- <b>Languages</b><br/>
 <br /><p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
