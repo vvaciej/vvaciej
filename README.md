@@ -2,9 +2,10 @@
 <img src="https://github.com/vvaciej/vvaciej/assets/140758922/f050b374-8231-4e10-8f37-55a73416bf5b" alt="macie">
 </div>
 
- <h3 align="center">In pursuit of the goal that is to become a Web Developer 🗺️🎯🔜</h3>
+ <h3 align="center">In pursuit of the goal that is to become a Web Developer 🗺️🎯🔜</h3><br />
 
-<div align="center">
+<div>
+ <b>Languages</b><br />
 <br /><p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
