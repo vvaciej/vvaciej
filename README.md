@@ -1,3 +1,6 @@
+<div align="center">
+<img class="maciek" src="https://github.com/vvaciej/vvaciej/assets/140758922/a5f67477-339a-4514-a406-7a1923060cdb" alt="maciek image" height="120">
+</div>
 <h2 align="center">In pursuit of the goal that is to become a Web Developer 🗺️🎯🔜</h2>
 
 ###
