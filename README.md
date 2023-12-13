@@ -1,4 +1,5 @@
-<img src="https://github.com/vvaciej/vvaciej/assets/140758922/c34b0e6f-851d-4a45-a357-65cac9bc3f12">
+<div align="center">
+  <img src="https://github.com/vvaciej/vvaciej/assets/140758922/c34b0e6f-851d-4a45-a357-65cac9bc3f12">
 </div>
 <h2 align="center">In pursuit of the goal that is to become a Web Developer 🗺️🎯🔜</h2>
 
@@ -21,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://github.com/vvaciej/vvaciej/assets/140758922/504ee21a-c368-46ca-b420-488d05a90fdf" height="35" alt="tailwind logo" />
+  <img src="https://github.com/vvaciej/vvaciej/assets/140758922/504ee21a-c368-46ca-b420-488d05a90fdf" height="32" alt="tailwind logo" />
 </div>
 
 ###
