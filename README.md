@@ -1,5 +1,4 @@
-![tailwind-svgrepo-com](https://github.com/vvaciej/vvaciej/assets/140758922/95e01700-fd5a-46db-8352-bf5968c5fb7e)<div align="center">
-  <img src="https://github.com/vvaciej/vvaciej/assets/140758922/c34b0e6f-851d-4a45-a357-65cac9bc3f12">
+<img src="https://github.com/vvaciej/vvaciej/assets/140758922/c34b0e6f-851d-4a45-a357-65cac9bc3f12">
 </div>
 <h2 align="center">In pursuit of the goal that is to become a Web Developer 🗺️🎯🔜</h2>
 
@@ -22,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://github.com/vvaciej/vvaciej/assets/140758922/504ee21a-c368-46ca-b420-488d05a90fdf" height="40" alt="tailwind logo" />
+  <img src="https://github.com/vvaciej/vvaciej/assets/140758922/504ee21a-c368-46ca-b420-488d05a90fdf" height="35" alt="tailwind logo" />
 </div>
 
 ###
