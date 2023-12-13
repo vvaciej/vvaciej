@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img src="https://www.codewars.com/users/vvaciejJS/badges/large" />
+  <a href="https://www.codewars.com/users/vvaciejJS"> <img src="https://www.codewars.com/users/vvaciejJS/badges/large" /> </a>
 </div>
 <img height="6" />
 <div align="center">
