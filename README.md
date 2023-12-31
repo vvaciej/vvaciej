@@ -5,7 +5,7 @@
 
 ###
 
-<h4 align="center">Languages</h4>
+<h4 align="center">Skills</h4>
 
 ###
 
