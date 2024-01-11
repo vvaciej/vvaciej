@@ -3,6 +3,7 @@
 </div>
 <h2 align="center">In pursuit of the goal that is to become a Web Developer 🗺️🎯🔜</h2>
 <h2 align="center">React Soon 🔜🔜🔜</h2>
+###
 
 <h4 align="center">Skills</h4>
 
