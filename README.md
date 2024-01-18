@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/374167/vite.svg" height="40" alt="vite logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="30" />
 </div>
 
 ###
