@@ -30,9 +30,9 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/374167/vite.svg" height="40" alt="vite logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="28" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS logo" height="28" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1024px-Npm-logo.svg.png" alt="npm" height="24" />
+  <img src="https://www.pikpng.com/pngl/m/84-844380_yarn-global-packages-not-working-yarn-package-manager.png" alt="yarn logo" height="24" />
 </div>
 
 ###
