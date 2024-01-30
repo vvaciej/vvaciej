@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS logo" height="28" />
   <img width="12" />
-  <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" alt="yarn logo" height="28" />
+  <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" alt="yarn logo" height="32" />
 </div>
 
 ###
