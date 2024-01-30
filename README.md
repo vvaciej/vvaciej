@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS logo" height="28" />
   <img width="12" />
-  <img src="https://www.pikpng.com/pngl/m/84-844380_yarn-global-packages-not-working-yarn-package-manager.png" alt="yarn logo" height="24" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-yarn-3628590-3030714.png?f=webp" alt="yarn logo" height="24" />
 </div>
 
 ###
