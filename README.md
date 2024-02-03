@@ -28,8 +28,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/374167/vite.svg" height="40" alt="vite logo" />
-  <img width="12" />
   <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" alt="yarn logo" height="35" />
   <img width="12" />
   <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel logo" height="37" />
